@@ -44,7 +44,7 @@
 
 ### Featured projects
 - **[loopsmith](https://github.com/bitphill/loopsmith)** — Skill to create purpose specific self evolving loops which can run in a schedule.
-- **[Optimus](https://github.com/bitphill/optimus)** - Skill to enable optimum usage of any AI model, token compression, code optimisation, code reusage, wiki generation (folder and sub-folder basic) all in one bundled suite
+- **[Optimus](https://github.com/bitphill/optimus)** - Skill to enable optimum usage of any AI model, token compression, price optimisation, code reusage, wiki generation (folder and sub-folder basic) all in one bundled binary written in Rust.
 - **[House Price Prediction](https://github.com/vaibhavbarmy/housep)** — Kaggle problem statement to predict house price using xgboost.
 - **[Code level Optimised CSV metrics aggregator](https://github.com/vaibhavbarmy/clarisights)** - Based on unique combination of dimension columns sets in csv of any size aggregate numerical columns
 - **[Simple chat bot](https://github.com/vaibhavbarmy/bottr)** - Based on usage of nltk library

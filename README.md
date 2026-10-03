@@ -25,7 +25,7 @@
 ### Tech I use
 
 ## Coding Languages
-`Scala` `Python` `Java` `Rust` `Python`
+`Scala` `Python` `Java` `Rust`
 
 ## Environments
 `AWS` `Azure` `Cloud GPU` `Macbook GPU`
@@ -39,7 +39,7 @@
 ## GenAI/ML/NLP
 `RandomForest` `XgBoost` `Logistic Regression Classification` `Stochastic Gradient Descent` `KMeans` 
 `Word2Vec` `Glove` `LSTM`
-`Grok CLI` `Claude Code` `Copilot` `Ollama` `Guardrails AI` `Hermes` `Openclaw` `Obsidian` `Agents` `Skills` `Orchestrator Design` `Harness` `Memory` `Graph` `Stateful Agents` ``
+`Grok CLI` `Claude Code` `Copilot` `Ollama` `Guardrails AI` `Hermes` `Openclaw` `Obsidian` `Agents` `Skills` `Orchestrator Design` `Harness` `Memory` `Graph` `Stateful Agents`
 `Concurrent Short living sub-agents` `MCP LLM exposure` `Self Evolving Loops`
 
 ### Featured projects
